@@ -1,6 +1,5 @@
 # SteamDB-Technologies-Scraper-Tool
 Scrape through different technologies from SteamDB
-# SteamDB Selenium Parser
 
 A robust Python tool that scrapes SteamDB.info to extract comprehensive data about game technologies, engines, SDKs, containers, emulators, launchers, and anti-cheat systems using Selenium with AJAX optimization.
 
